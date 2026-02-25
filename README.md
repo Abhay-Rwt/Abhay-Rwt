@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @Abhay-Rwt
-- 👀 I’m interested in Web Development ...
-- 🌱 I’m currently learning Web Development ...
-- 📫 Contact me @gmail- abhithrckstr90@gmail.com ...
+👋 Hey, I’m Abhay Rawat
+💻 Passionate about Web Development
+🚀 Learning, building, and improving every day
 
-<!---
-Abhay-Rwt/Abhay-Rwt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently exploring
+
+Frontend & Backend Web Technologies
+
+Clean UI + Efficient Logic
+
+🛠️ I enjoy
+
+Turning ideas into real projects
+
+Writing clean and readable code
+
+Learning by building, not just watching
+
+📫 Reach me at:
+📧 abhithrckstr90@gmail.com
+
+⚡ Consistency > Motivation
+⚡ Code. Learn. Repeat.
